@@ -10,11 +10,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    position: relative;
     padding-bottom: 150px;
     color: white;
     margin-bottom: 100px;
-    position: fixed;
 }
 
 .header-banner {
